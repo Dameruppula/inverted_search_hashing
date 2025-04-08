@@ -1,0 +1,11 @@
+#0;and;1;file2.txt;1;#
+#6;good;1;file1.txt;1;#
+#7;hai;1;file1.txt;1;
+hello;1;file1.txt;1;#
+#8;i;1;file2.txt;1;#
+#9;jerry;1;file2.txt;1;#
+#11;like;1;file2.txt;1;#
+#12;morning;1;file1.txt;1;#
+#18;stories;1;file2.txt;1;#
+#19;the;1;file2.txt;1;
+Tom;1;file2.txt;1;#
